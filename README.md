@@ -9,12 +9,6 @@ The work here covers the full product lifecycle: from defining the vision and pe
 
 ---
 
-## Product Demo
-
-[▶ Watch the product walkthrough on YouTube](https://youtu.be/UPxprn2hPvo)
-
----
-
 ## What's in this repository
 
 - **Lean Inception** — product vision, personas, user journeys, feature prioritization and MVP definition (`LeanInception_CodeBrincando_MarinaBrockes.pdf`)
