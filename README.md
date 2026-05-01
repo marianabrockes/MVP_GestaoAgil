@@ -1,4 +1,4 @@
-# CodeBrincando 🚀 — Product Management & Design
+# CodeBrincando — Product Management & Design
 
 This repository documents the product planning, UX design, and agile management work behind CodeBrincando — a platform that teaches programming to children through guided theory, bug-fixing challenges, and an AI tutor.
 
