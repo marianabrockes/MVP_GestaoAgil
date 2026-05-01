@@ -11,7 +11,7 @@ The work here covers the full product lifecycle: from defining the vision and pe
 
 ## Product Demo
 
-[![CodeBrincando Demo](https://img.youtube.com/vi/UPxprn2hPvo/0.jpg)](https://youtu.be/UPxprn2hPvo)
+[▶ Watch the product walkthrough on YouTube](https://youtu.be/UPxprn2hPvo)
 
 ---
 
